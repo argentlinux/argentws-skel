@@ -23,7 +23,7 @@ DialogWidth=1024
 PreloadWeight=26
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Path/contents/images/800x600.jpg
+Image=file:///usr/share/wallpapers/Argent-Modern/
 
 [Containments][2]
 activityId=
