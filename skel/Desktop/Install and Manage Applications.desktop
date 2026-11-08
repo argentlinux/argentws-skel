@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Install and Manage Applications
+Name[ro]=Instalează și gestionează aplicații
+Exec=plasma-discover %F
+Icon=plasmadiscover
